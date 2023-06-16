@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "day3",
+    "slug": "day3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://media.istockphoto.com/id/1069730414/vector/start-up-line-icon.jpg?s=612x612&w=0&k=20&c=v5_Rsg8DeHzr0CJwwIalFIN26s5deiBoM6yC11nwclM=",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "https://media.istockphoto.com/id/1399947172/vector/welcome-wedding-calligraphy-phrase-for-invitation-sign.jpg?s=612x612&w=0&k=20&c=Q_Np6VO_GTtMoryQVxu4tNNZZGmo01qF7bCPnn4AKaI=",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
